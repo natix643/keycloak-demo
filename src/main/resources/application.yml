@@ -1,0 +1,7 @@
+keycloak:
+  auth-server-url: http://localhost:8180/auth
+  realm: test-realm
+  resource: test-api
+  public-client: true
+  bearer-only: true
+  principal-attribute: preferred_username
