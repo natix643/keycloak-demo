@@ -10,7 +10,7 @@ repositories {
 
 dependencyManagement {
     imports {
-        mavenBom "org.keycloak.bom:keycloak-adapter-bom:3.2.1.Final"
+        mavenBom "org.keycloak.bom:keycloak-adapter-bom:3.4.1.Final"
     }
 }
 
